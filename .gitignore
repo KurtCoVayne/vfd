@@ -1,0 +1,20 @@
+# Coq build artifacts
+*.vo
+*.vok
+*.vos
+*.glob
+.*.aux
+.lia.cache
+.nia.cache
+
+# Isabelle build artifacts
+output/
+.isabelle/
+
+# Editor backups
+*~
+.#*
+\#*\#
+
+# OS files
+.DS_Store

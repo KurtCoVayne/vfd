@@ -1,0 +1,5 @@
+session VFD = "HOL" +
+  theories
+    Ex2_2
+    Ex2_3_4
+    Ex2_6_7_8
